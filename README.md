@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-##I'm Beatriz, a FrontEnd Developer and studying to be Full Stack Developer.
+## I'm Beatriz, a FrontEnd Developer and studying to be Full Stack Developer.
 Bellow you can see some of my recents projects.
-🌱 I’m currently learning Typescript 
+🌱 I’m currently learning Typescript and NextJs
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
