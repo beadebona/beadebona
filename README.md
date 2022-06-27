@@ -2,7 +2,13 @@
 
 ## I'm Beatriz, a FrontEnd Developer and studying to be Full Stack Developer.
 
-🌱 I’m 23yo
+🌱 I'm 23 years old and now I'm based in Rio de Janeiro, Brazil. <br/>
+                    I started my studies in tech recently at Kenzie Academy Brasil and It has been life changing. <br/>
+                    I discovered coding as a passion, solving problems were always my thing since I was a kid, 
+                    so  It became quite easy for me.<br/>
+                    I m not a very creative person but I'm perfeccionist, 
+                    so one of my favorite things is thinking about how I can improve something. <br/>
+                    I might not invent much but I m always ready to make it better.
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
