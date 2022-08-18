@@ -24,6 +24,8 @@
     <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />         
     <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   </div>
 </div>
   
